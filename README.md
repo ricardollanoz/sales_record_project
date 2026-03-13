@@ -14,4 +14,8 @@ The project is built trought multiple function such as:
 Run the program into main.py
 The program will ask you to enter information in product name, price, quantity. After that, it will tell you if you want to record another product or not. At the end, the program will show you a summary of all registered products.
 
-![FLOWCHART](images\Diagrama_sin_título.drawio.png)
+![flowchart](images\salesrecorddiagram.png)
+
+**Author:**
+Ricardo Llanos
+Economist | Jr software developer in training
