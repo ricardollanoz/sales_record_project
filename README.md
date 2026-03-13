@@ -18,4 +18,5 @@ The program will ask you to enter information in product name, price, quantity. 
 
 **Author:**
 Ricardo Llanos
+
 Economist | Jr software developer in training
